@@ -15,21 +15,6 @@ Option to include:
 
 Always includes at least one lowercase letter
 
-Password strength meter:
-
-🔴 Weak
-
-🟡 Medium
-
-🟢 Strong
-
-Password Strength Logic:
-
-Weak	-           Less than 8 characters or only 1 type of character
-
-Medium	 -        8–11 characters with at least 2 types
-
-Strong	 -        12+ characters with all 4 types (lower, upper, symbol, number)
 
 Technologies Used:
 
@@ -37,4 +22,3 @@ Python 3.x
 
 Built-in libraries: random, string, chr()
 
-![Screenshot 2025-06-28 134819](https://github.com/user-attachments/assets/027a0f93-c451-47a9-b95f-cbea4d02aea2)
